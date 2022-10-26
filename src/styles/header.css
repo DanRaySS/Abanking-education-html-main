@@ -1,0 +1,7 @@
+.header__container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  max-width: 1152px;
+  margin: 0 auto;
+}/*# sourceMappingURL=header.css.map */
